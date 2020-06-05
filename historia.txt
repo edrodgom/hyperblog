@@ -3,13 +3,4 @@ Esta es la historia de Edgar
 Edgar tiene 39 años y nacio en la CDMX
 y pronto se movera de casa
 
-hablaremos de su historia
-
-se agregan datos adicionales como la altura 1.73 y el peso 95kg
-
-trabaja como DBA jr. en Infotec con el cliente SRE
-
-Actualmente esta haciendo home office, trabaja de forma remota y atiende muchas solicitudes y 
-esta estudiando para ponerse a programar.
-
-Quiere volverse programador.
+mañana nos enfocaremos en su vida laboral
